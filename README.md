@@ -11,7 +11,7 @@
 Check out my repositories to see what I’ve been working on! 
 
 ## 📫 Let's Connect!
-- 💼 [Portfolio](agharaza)
+- 💼 [Portfolio](https://github.com/AghaRazaHaider/agharaza))
 - 🐦 [Gmail](rh07386421@gmail.com)
 - 💻 [WhatsApp](+92 315 5939808)
 
